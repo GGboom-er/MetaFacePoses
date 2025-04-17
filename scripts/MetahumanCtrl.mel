@@ -46,68 +46,68 @@ frameLayout -l "Visemes" -bs "etchedIn" -cll 1 -cl 1;
 
 gridLayout -nc 8 -cwh 64 80;
 
-symbolButton -i "MetaHumanPoses/01_TDS-Ah.jpg" -c "TDSAh";
-symbolButton -i "MetaHumanPoses/02_TDS-Ee.jpg" -c "TDSEe";
-symbolButton -i "MetaHumanPoses/03_Ee.jpg" -c "Ee";
-symbolButton -i "MetaHumanPoses/04_lh.jpg" -c "lh";
-symbolButton -i "MetaHumanPoses/05_Ay.jpg" -c "Ay";
-symbolButton -i "MetaHumanPoses/06_Eh.jpg" -c "Eh";
-symbolButton -i "MetaHumanPoses/07_Aa.jpg" -c "Aa";
-symbolButton -i "MetaHumanPoses/08_Ah.jpg" -c "Ah";
-symbolButton -i "MetaHumanPoses/09_Oh.jpg" -c "Oh";
-symbolButton -i "MetaHumanPoses/10_Or.jpg" -c "Or";
-symbolButton -i "MetaHumanPoses/11_Oo.jpg" -c "Oo";
-symbolButton -i "MetaHumanPoses/12_Ww-Oo.jpg" -c "WwOo";
-symbolButton -i "MetaHumanPoses/13_KGY_TDS.jpg" -c "KGYTDS";
-symbolButton -i "MetaHumanPoses/14_Ww_Low.jpg" -c "WwLow";
-symbolButton -i "MetaHumanPoses/15_ChJjSh.jpg" -c "ChJjSh";
-symbolButton -i "MetaHumanPoses/16_KGY.jpg" -c "KGY";
-symbolButton -i "MetaHumanPoses/17_Ch.jpg" -c "Ch";
-symbolButton -i "MetaHumanPoses/18_Ew.jpg" -c "Ew";
-symbolButton -i "MetaHumanPoses/19_Ww-Ew.jpg" -c "WwEw";
-symbolButton -i "MetaHumanPoses/20_Rr.jpg" -c "Rr";
-symbolButton -i "MetaHumanPoses/21_Ww-High.jpg" -c "WwHigh";
-symbolButton -i "MetaHumanPoses/22_Uh.jpg" -c "Uh";
-symbolButton -i "MetaHumanPoses/23_FV_Or.jpg" -c "FVOr";
-symbolButton -i "MetaHumanPoses/23_FV.jpg" -c "FV";
-symbolButton -i "MetaHumanPoses/24_Ur.jpg" -c "Ur";
-symbolButton -i "MetaHumanPoses/25_FV_Ee.jpg" -c "FVEe";
-symbolButton -i "MetaHumanPoses/26_MBP.jpg" -c "MBP";
-symbolButton -i "MetaHumanPoses/27_MBP_Wide.jpg" -c "MBPWide";
-symbolButton -i "MetaHumanPoses/28_Tongue_LNTDS.jpg" -c "TongueLNTDS";
-symbolButton -i "MetaHumanPoses/29_Tongue_Th.jpg" -c "TongueTh";
-symbolButton -i "MetaHumanPoses/30_Tongue_KGY.jpg" -c "TongueKGY";
-symbolButton -i "MetaHumanPoses/31_Tongue_Rr.jpg" -c "TongueRr";
+symbolButton -i "MetaHumanPoses/01_TDS-Ah.jpg" -c "button_Reset_Global_CTRLs ();TDSAh";
+symbolButton -i "MetaHumanPoses/02_TDS-Ee.jpg" -c "button_Reset_Global_CTRLs ();TDSEe";
+symbolButton -i "MetaHumanPoses/03_Ee.jpg" -c "button_Reset_Global_CTRLs ();Ee";
+symbolButton -i "MetaHumanPoses/04_lh.jpg" -c "button_Reset_Global_CTRLs ();lh";
+symbolButton -i "MetaHumanPoses/05_Ay.jpg" -c "button_Reset_Global_CTRLs ();Ay";
+symbolButton -i "MetaHumanPoses/06_Eh.jpg" -c "button_Reset_Global_CTRLs ();Eh";
+symbolButton -i "MetaHumanPoses/07_Aa.jpg" -c "button_Reset_Global_CTRLs ();Aa";
+symbolButton -i "MetaHumanPoses/08_Ah.jpg" -c "button_Reset_Global_CTRLs ();Ah";
+symbolButton -i "MetaHumanPoses/09_Oh.jpg" -c "button_Reset_Global_CTRLs ();Oh";
+symbolButton -i "MetaHumanPoses/10_Or.jpg" -c "button_Reset_Global_CTRLs ();Or";
+symbolButton -i "MetaHumanPoses/11_Oo.jpg" -c "button_Reset_Global_CTRLs ();Oo";
+symbolButton -i "MetaHumanPoses/12_Ww-Oo.jpg" -c "button_Reset_Global_CTRLs ();WwOo";
+symbolButton -i "MetaHumanPoses/13_KGY_TDS.jpg" -c "button_Reset_Global_CTRLs ();KGYTDS";
+symbolButton -i "MetaHumanPoses/14_Ww_Low.jpg" -c "button_Reset_Global_CTRLs ();WwLow";
+symbolButton -i "MetaHumanPoses/15_ChJjSh.jpg" -c "button_Reset_Global_CTRLs ();ChJjSh";
+symbolButton -i "MetaHumanPoses/16_KGY.jpg" -c "button_Reset_Global_CTRLs ();KGY";
+symbolButton -i "MetaHumanPoses/17_Ch.jpg" -c "button_Reset_Global_CTRLs ();Ch";
+symbolButton -i "MetaHumanPoses/18_Ew.jpg" -c "button_Reset_Global_CTRLs ();Ew";
+symbolButton -i "MetaHumanPoses/19_Ww-Ew.jpg" -c "button_Reset_Global_CTRLs ();WwEw";
+symbolButton -i "MetaHumanPoses/20_Rr.jpg" -c "button_Reset_Global_CTRLs ();Rr";
+symbolButton -i "MetaHumanPoses/21_Ww-High.jpg" -c "button_Reset_Global_CTRLs ();WwHigh";
+symbolButton -i "MetaHumanPoses/22_Uh.jpg" -c "button_Reset_Global_CTRLs ();Uh";
+symbolButton -i "MetaHumanPoses/23_FV_Or.jpg" -c "button_Reset_Global_CTRLs ();FVOr";
+symbolButton -i "MetaHumanPoses/23_FV.jpg" -c "button_Reset_Global_CTRLs ();FV";
+symbolButton -i "MetaHumanPoses/24_Ur.jpg" -c "button_Reset_Global_CTRLs ();Ur";
+symbolButton -i "MetaHumanPoses/25_FV_Ee.jpg" -c "button_Reset_Global_CTRLs ();FVEe";
+symbolButton -i "MetaHumanPoses/26_MBP.jpg" -c "button_Reset_Global_CTRLs ();MBP";
+symbolButton -i "MetaHumanPoses/27_MBP_Wide.jpg" -c "button_Reset_Global_CTRLs ();MBPWide";
+symbolButton -i "MetaHumanPoses/28_Tongue_LNTDS.jpg" -c "button_Reset_Global_CTRLs ();TongueLNTDS";
+symbolButton -i "MetaHumanPoses/29_Tongue_Th.jpg" -c "button_Reset_Global_CTRLs ();TongueTh";
+symbolButton -i "MetaHumanPoses/30_Tongue_KGY.jpg" -c "button_Reset_Global_CTRLs ();TongueKGY";
+symbolButton -i "MetaHumanPoses/31_Tongue_Rr.jpg" -c "button_Reset_Global_CTRLs ();TongueRr";
 
 setParent $cH1;
 
 frameLayout -l "Expressions" -bs "etchedIn" -cll 1 -cl 1;
 
 gridLayout -nc 8 -cwh 64 80;
-symbolButton -i "MetaHumanPoses/Anger-01_Sternness.jpg" -c "AngerSternness";
-symbolButton -i "MetaHumanPoses/Anger-02_Indignation.jpg" -c "AngerIndignation";
-symbolButton -i "MetaHumanPoses/Anger-03_Anger.jpg" -c "AngerAnger";
-symbolButton -i "MetaHumanPoses/Anger-04_Rage.jpg" -c "AngerRage";
-symbolButton -i "MetaHumanPoses/Disgust-01_Disdain.jpg" -c "DisgustDisdain";
-symbolButton -i "MetaHumanPoses/Disgust-02_Aversion.jpg" -c "DisgustAversion";
-symbolButton -i "MetaHumanPoses/Disgust-03_Disgust.jpg" -c "DisgustDisgust";
-symbolButton -i "MetaHumanPoses/Disgust-04_Revulsion.jpg" -c "DisgustRevulsion";
-symbolButton -i "MetaHumanPoses/Fear-01_Concern.jpg" -c "FearConcern";
-symbolButton -i "MetaHumanPoses/Fear-02_Anxiety.jpg" -c "FearAnxiety";
-symbolButton -i "MetaHumanPoses/Fear-03_Fear.jpg" -c "FearFear";
-symbolButton -i "MetaHumanPoses/Fear-03_Terror.jpg" -c "FearTerror";
-symbolButton -i "MetaHumanPoses/Joy-01_Satisfaction.jpg" -c "JoySatisfaction";
-symbolButton -i "MetaHumanPoses/Joy-02_Amusement.jpg" -c "JoyAmusement";
-symbolButton -i "MetaHumanPoses/Joy-03_Joy.jpg" -c "JoyJoy";
-symbolButton -i "MetaHumanPoses/Joy-04_Laughter.jpg" -c "JoyLaughter";
-symbolButton -i "MetaHumanPoses/Sadness-01_Dejection.jpg" -c "SadnessDejection";
-symbolButton -i "MetaHumanPoses/Sadness-02_Melancholy.jpg" -c "SadnessMelancholy";
-symbolButton -i "MetaHumanPoses/Sadness-03_Sadness.jpg" -c "SadnessSadness";
-symbolButton -i "MetaHumanPoses/Sadness-03_Grief.jpg" -c "SadnessGrief";
-symbolButton -i "MetaHumanPoses/Surprise-01_Alertness.jpg" -c "SurpriseAlertness";
-symbolButton -i "MetaHumanPoses/Surprise-02_Wonder.jpg" -c "SurpriseWonder";
-symbolButton -i "MetaHumanPoses/Surprise-03_Surprise.jpg" -c "SurpriseSurprise";
-symbolButton -i "MetaHumanPoses/Surprise-04_Shock.jpg" -c "SurpriseShock";
+symbolButton -i "MetaHumanPoses/Anger-01_Sternness.jpg" -c "button_Reset_Global_CTRLs ();AngerSternness";
+symbolButton -i "MetaHumanPoses/Anger-02_Indignation.jpg" -c "button_Reset_Global_CTRLs ();AngerIndignation";
+symbolButton -i "MetaHumanPoses/Anger-03_Anger.jpg" -c "button_Reset_Global_CTRLs ();AngerAnger";
+symbolButton -i "MetaHumanPoses/Anger-04_Rage.jpg" -c "button_Reset_Global_CTRLs ();AngerRage";
+symbolButton -i "MetaHumanPoses/Disgust-01_Disdain.jpg" -c "button_Reset_Global_CTRLs ();DisgustDisdain";
+symbolButton -i "MetaHumanPoses/Disgust-02_Aversion.jpg" -c "button_Reset_Global_CTRLs ();DisgustAversion";
+symbolButton -i "MetaHumanPoses/Disgust-03_Disgust.jpg" -c "button_Reset_Global_CTRLs ();DisgustDisgust";
+symbolButton -i "MetaHumanPoses/Disgust-04_Revulsion.jpg" -c "button_Reset_Global_CTRLs ();DisgustRevulsion";
+symbolButton -i "MetaHumanPoses/Fear-01_Concern.jpg" -c "button_Reset_Global_CTRLs ();FearConcern";
+symbolButton -i "MetaHumanPoses/Fear-02_Anxiety.jpg" -c "button_Reset_Global_CTRLs ();FearAnxiety";
+symbolButton -i "MetaHumanPoses/Fear-03_Fear.jpg" -c "button_Reset_Global_CTRLs ();FearFear";
+symbolButton -i "MetaHumanPoses/Fear-03_Terror.jpg" -c "button_Reset_Global_CTRLs ();FearTerror";
+symbolButton -i "MetaHumanPoses/Joy-01_Satisfaction.jpg" -c "button_Reset_Global_CTRLs ();JoySatisfaction";
+symbolButton -i "MetaHumanPoses/Joy-02_Amusement.jpg" -c "button_Reset_Global_CTRLs ();JoyAmusement";
+symbolButton -i "MetaHumanPoses/Joy-03_Joy.jpg" -c "button_Reset_Global_CTRLs ();JoyJoy";
+symbolButton -i "MetaHumanPoses/Joy-04_Laughter.jpg" -c "button_Reset_Global_CTRLs ();JoyLaughter";
+symbolButton -i "MetaHumanPoses/Sadness-01_Dejection.jpg" -c "button_Reset_Global_CTRLs ();SadnessDejection";
+symbolButton -i "MetaHumanPoses/Sadness-02_Melancholy.jpg" -c "button_Reset_Global_CTRLs ();SadnessMelancholy";
+symbolButton -i "MetaHumanPoses/Sadness-03_Sadness.jpg" -c "button_Reset_Global_CTRLs ();SadnessSadness";
+symbolButton -i "MetaHumanPoses/Sadness-03_Grief.jpg" -c "button_Reset_Global_CTRLs ();SadnessGrief";
+symbolButton -i "MetaHumanPoses/Surprise-01_Alertness.jpg" -c "button_Reset_Global_CTRLs ();SurpriseAlertness";
+symbolButton -i "MetaHumanPoses/Surprise-02_Wonder.jpg" -c "button_Reset_Global_CTRLs ();SurpriseWonder";
+symbolButton -i "MetaHumanPoses/Surprise-03_Surprise.jpg" -c "button_Reset_Global_CTRLs ();SurpriseSurprise";
+symbolButton -i "MetaHumanPoses/Surprise-04_Shock.jpg" -c "button_Reset_Global_CTRLs ();SurpriseShock";
 
 setParent $cH1;
 
@@ -115,12 +115,12 @@ frameLayout -l "ROM_Brows" -bs "etchedIn" -cll 1 -cl 1;
 
 gridLayout -nc 8 -cwh 64 80;
 
-symbolButton -i "MetaHumanPoses/ROM_B_L_Eye_Squint.jpg" -c "ROM_B_L_Eye_Squint";
-symbolButton -i "MetaHumanPoses/ROM_B_R_Eye_Squint.jpg" -c "ROM_B_R_Eye_Squint";
-symbolButton -i "MetaHumanPoses/ROM_B_Eyes_Semi_Closed.jpg" -c "ROM_B_Eyes_Semi_Closed";
-symbolButton -i "MetaHumanPoses/ROM_B_Brows_Up.jpg" -c "ROM_Brows_Up";
-symbolButton -i "MetaHumanPoses/ROM_B_Brows_Down_angry.jpg" -c "ROM_Brows_Down_angry";
-symbolButton -i "MetaHumanPoses/ROM_B_Sad.jpg" -c "ROM_B_Sad";
+symbolButton -i "MetaHumanPoses/ROM_B_L_Eye_Squint.jpg" -c "button_Reset_Global_CTRLs ();ROM_B_L_Eye_Squint";
+symbolButton -i "MetaHumanPoses/ROM_B_R_Eye_Squint.jpg" -c "button_Reset_Global_CTRLs ();ROM_B_R_Eye_Squint";
+symbolButton -i "MetaHumanPoses/ROM_B_Eyes_Semi_Closed.jpg" -c "button_Reset_Global_CTRLs ();ROM_B_Eyes_Semi_Closed";
+symbolButton -i "MetaHumanPoses/ROM_B_Brows_Up.jpg" -c "button_Reset_Global_CTRLs ();ROM_Brows_Up";
+symbolButton -i "MetaHumanPoses/ROM_B_Brows_Down_angry.jpg" -c "button_Reset_Global_CTRLs ();ROM_Brows_Down_angry";
+symbolButton -i "MetaHumanPoses/ROM_B_Sad.jpg" -c "button_Reset_Global_CTRLs ();ROM_B_Sad";
 
 setParent $cH1;
 
@@ -128,15 +128,15 @@ frameLayout -l "ROM_Eyes" -bs "etchedIn" -cll 1 -cl 1;
 
 gridLayout -nc 8 -cwh 64 80;
 
-symbolButton -i "MetaHumanPoses/ROM_E_Look_Up.jpg" -c "ROM_E_Look_Up";
-symbolButton -i "MetaHumanPoses/ROM_E_Look_Right.jpg" -c "ROM_E_Look_Right";
-symbolButton -i "MetaHumanPoses/ROM_E_Look_Down.jpg" -c "ROM_E_Look_Down";
-symbolButton -i "MetaHumanPoses/ROM_E_Look_Left.jpg" -c "ROM_E_Look_Left";
-symbolButton -i "MetaHumanPoses/ROM_E_Eyes_Closed.jpg" -c "ROM_E_Eyes_Closed";
-symbolButton -i "MetaHumanPoses/ROM_E_L_Eye_Squint.jpg" -c "ROM_E_L_Eye_Squint";
-symbolButton -i "MetaHumanPoses/ROM_E_R_Eye_Squint.jpg" -c "ROM_E_R_Eye_Squint";
-symbolButton -i "MetaHumanPoses/ROM_E_Eyes_Semi_Closed.jpg" -c "ROM_E_Eyes_Semi_Closed";
-symbolButton -i "MetaHumanPoses/ROM_E_Eyes_Fully_Open.jpg" -c "ROM_E_Eyes_Fully_Open";
+symbolButton -i "MetaHumanPoses/ROM_E_Look_Up.jpg" -c "button_Reset_Global_CTRLs ();ROM_E_Look_Up";
+symbolButton -i "MetaHumanPoses/ROM_E_Look_Right.jpg" -c "button_Reset_Global_CTRLs ();ROM_E_Look_Right";
+symbolButton -i "MetaHumanPoses/ROM_E_Look_Down.jpg" -c "button_Reset_Global_CTRLs ();ROM_E_Look_Down";
+symbolButton -i "MetaHumanPoses/ROM_E_Look_Left.jpg" -c "button_Reset_Global_CTRLs ();ROM_E_Look_Left";
+symbolButton -i "MetaHumanPoses/ROM_E_Eyes_Closed.jpg" -c "button_Reset_Global_CTRLs ();ROM_E_Eyes_Closed";
+symbolButton -i "MetaHumanPoses/ROM_E_L_Eye_Squint.jpg" -c "button_Reset_Global_CTRLs ();ROM_E_L_Eye_Squint";
+symbolButton -i "MetaHumanPoses/ROM_E_R_Eye_Squint.jpg" -c "button_Reset_Global_CTRLs ();ROM_E_R_Eye_Squint";
+symbolButton -i "MetaHumanPoses/ROM_E_Eyes_Semi_Closed.jpg" -c "button_Reset_Global_CTRLs ();ROM_E_Eyes_Semi_Closed";
+symbolButton -i "MetaHumanPoses/ROM_E_Eyes_Fully_Open.jpg" -c "button_Reset_Global_CTRLs ();ROM_E_Eyes_Fully_Open";
 
 setParent $cH1;
 
@@ -144,20 +144,20 @@ frameLayout -l "ROM_Mouth" -bs "etchedIn" -cll 1 -cl 1;
 
 gridLayout -nc 8 -cwh 64 80;
 
-symbolButton -i "MetaHumanPoses/ROM_M_L_Eye_Squint.jpg" -c "ROM_M_L_Eye_Squint";
-symbolButton -i "MetaHumanPoses/ROM_M_R_Eye_Squint.jpg" -c "ROM_M_R_Eye_Squint";
-symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Smile.jpg" -c "ROM_M_Mouth_Smile";
-symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Smile_Wide.jpg" -c "ROM_M_Mouth_Smile_Wide";
-symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Open.jpg" -c "ROM_M_Mouth_Open";
-symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Open_Extreme.jpg" -c "ROM_M_Mouth_Open_Extreme";
-symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Up.jpg" -c "ROM_M_Mouth_Up";
-symbolButton -i "MetaHumanPoses/ROM_M_Show_Teeth.jpg" -c "ROM_M_Show_Teeth";
-symbolButton -i "MetaHumanPoses/ROM_M_Sad.jpg" -c "ROM_M_Sad";
-symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Open_Lips_Together.jpg" -c "ROM_M_Mouth_Open_Lips_Together";
-symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Left_Lips_Together.jpg" -c "ROM_M_Mouth_Left_Lips_Together";
-symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Right_Lips_Together.jpg" -c "ROM_M_Mouth_Right_Lips_Together";
-symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Left.jpg" -c "ROM_M_Mouth_Left";
-symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Right.jpg" -c "ROM_M_Mouth_Right";
+symbolButton -i "MetaHumanPoses/ROM_M_L_Eye_Squint.jpg" -c "button_Reset_Global_CTRLs ();ROM_M_L_Eye_Squint";
+symbolButton -i "MetaHumanPoses/ROM_M_R_Eye_Squint.jpg" -c "button_Reset_Global_CTRLs ();ROM_M_R_Eye_Squint";
+symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Smile.jpg" -c "button_Reset_Global_CTRLs ();ROM_M_Mouth_Smile";
+symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Smile_Wide.jpg" -c "button_Reset_Global_CTRLs ();ROM_M_Mouth_Smile_Wide";
+symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Open.jpg" -c "button_Reset_Global_CTRLs ();ROM_M_Mouth_Open";
+symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Open_Extreme.jpg" -c "button_Reset_Global_CTRLs ();ROM_M_Mouth_Open_Extreme";
+symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Up.jpg" -c "button_Reset_Global_CTRLs ();ROM_M_Mouth_Up";
+symbolButton -i "MetaHumanPoses/ROM_M_Show_Teeth.jpg" -c "button_Reset_Global_CTRLs ();ROM_M_Show_Teeth";
+symbolButton -i "MetaHumanPoses/ROM_M_Sad.jpg" -c "button_Reset_Global_CTRLs ();ROM_M_Sad";
+symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Open_Lips_Together.jpg" -c "button_Reset_Global_CTRLs ();ROM_M_Mouth_Open_Lips_Together";
+symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Left_Lips_Together.jpg" -c "button_Reset_Global_CTRLs ();ROM_M_Mouth_Left_Lips_Together";
+symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Right_Lips_Together.jpg" -c "button_Reset_Global_CTRLs ();ROM_M_Mouth_Right_Lips_Together";
+symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Left.jpg" -c "button_Reset_Global_CTRLs ();ROM_M_Mouth_Left";
+symbolButton -i "MetaHumanPoses/ROM_M_Mouth_Right.jpg" -c "button_Reset_Global_CTRLs ();ROM_M_Mouth_Right";
 
 setParent $cH1;
 
@@ -702,8 +702,8 @@ setAttr "CTRL_R_mouth_pressU.translateY" 0.14;
 
 global proc TongueLNTDS ()
 {
-setAttr "CTRL_C_tongue_roll.translateY" 0.086;
-setAttr "CTRL_C_tongue.translateY" 0.362;
+setAttr "CTRL_C_tongue_bendTwist.translateY" 0.086;
+setAttr "CTRL_C_tongue_move.translateY" 0.362;
 setAttr "CTRL_C_tongue_inOut.translateY" -0.128;
 setAttr "CTRL_L_mouth_cornerPull.translateY" 0.281;
 setAttr "CTRL_R_mouth_cornerPull.translateY" 0.281;
@@ -718,8 +718,8 @@ setAttr "CTRL_R_mouth_pressU.translateY" 0.14;
 global proc TongueTh ()
 {
 setAttr "CTRL_C_mouth.translateY" 0.2;
-setAttr "CTRL_C_tongue_roll.translateY" -0.03;
-setAttr "CTRL_C_tongue.translateY" 0.156;
+setAttr "CTRL_C_tongue_bendTwist.translateY" -0.03;
+setAttr "CTRL_C_tongue_move.translateY" 0.156;
 setAttr "CTRL_C_tongue_inOut.translateY" -0.210;
 setAttr "CTRL_L_mouth_cornerPull.translateY" 0.281;
 setAttr "CTRL_R_mouth_cornerPull.translateY" 0.281;
@@ -734,7 +734,7 @@ setAttr "CTRL_R_mouth_pressU.translateY" 0.14;
 global proc TongueKGY ()
 {
 setAttr "CTRL_C_mouth.translateY" 0.2;
-setAttr "CTRL_C_tongue_roll.translateY" -0.471;
+setAttr "CTRL_C_tongue_bendTwist.translateY" -0.471;
 setAttr "CTRL_C_tongue_inOut.translateY" 0.342;
 setAttr "CTRL_L_mouth_cornerPull.translateY" 0.281;
 setAttr "CTRL_R_mouth_cornerPull.translateY" 0.281;
@@ -750,7 +750,7 @@ global proc TongueRr ()
 {
 setAttr "CTRL_C_mouth.translateY" 0.2;
 setAttr "CTRL_C_tongue_press.translateY" 0.845;
-setAttr "CTRL_C_tongue.translateY" 0.561;
+setAttr "CTRL_C_tongue_move.translateY" 0.561;
 setAttr "CTRL_C_tongue_inOut.translateY" 0.533;
 setAttr "CTRL_L_mouth_cornerPull.translateY" 0.281;
 setAttr "CTRL_R_mouth_cornerPull.translateY" 0.281;
@@ -1968,14 +1968,14 @@ setAttr "CTRL_L_neck_mastoidContract.translateY" 0;
 setAttr "CTRL_R_neck_stretch.translateY" 0;
 setAttr "CTRL_C_neck_swallow.translateY" 0;
 setAttr "CTRL_C_tongue_inOut.translateY" 0;
-setAttr "CTRL_C_tongue.translateX" 0;
-setAttr "CTRL_C_tongue.translateY" 0;
-setAttr "CTRL_C_tongue_narrowWide.translateY" 0;
+setAttr "CTRL_C_tongue_move.translateX" 0;
+setAttr "CTRL_C_tongue_move.translateY" 0;
+setAttr "CTRL_C_tongue_wideNarrow.translateY" 0;
 setAttr "CTRL_C_tongue_press.translateY" 0;
-setAttr "CTRL_C_tongue_roll.translateX" 0;
-setAttr "CTRL_C_tongue_roll.translateY" 0;
-setAttr "CTRL_C_tongue_tip.translateX" 0;
-setAttr "CTRL_C_tongue_tip.translateY" 0;
+setAttr "CTRL_C_tongue_bendTwist.translateX" 0;
+setAttr "CTRL_C_tongue_bendTwist.translateY" 0;
+setAttr "CTRL_C_tongue_tipMove.translateX" 0;
+setAttr "CTRL_C_tongue_tipMove.translateY" 0;
 setAttr "CTRL_R_mouth_lipsBlow.translateY" 0;
 setAttr "CTRL_L_mouth_lipsBlow.translateY" 0;
 setAttr "CTRL_L_mouth_lipsTogetherU.translateY" 0;
@@ -2165,14 +2165,14 @@ setAttr "CTRL_L_neck_mastoidContract.translateY" 0;
 setAttr "CTRL_R_neck_stretch.translateY" 0;
 setAttr "CTRL_C_neck_swallow.translateY" 0;
 setAttr "CTRL_C_tongue_inOut.translateY" 0;
-setAttr "CTRL_C_tongue.translateX" 0;
-setAttr "CTRL_C_tongue.translateY" 0;
-setAttr "CTRL_C_tongue_narrowWide.translateY" 0;
+setAttr "CTRL_C_tongue_move.translateX" 0;
+setAttr "CTRL_C_tongue_move.translateY" 0;
+setAttr "CTRL_C_tongue_wideNarrow.translateY" 0;
 setAttr "CTRL_C_tongue_press.translateY" 0;
-setAttr "CTRL_C_tongue_roll.translateX" 0;
-setAttr "CTRL_C_tongue_roll.translateY" 0;
-setAttr "CTRL_C_tongue_tip.translateX" 0;
-setAttr "CTRL_C_tongue_tip.translateY" 0;
+setAttr "CTRL_C_tongue_bendTwist.translateX" 0;
+setAttr "CTRL_C_tongue_bendTwist.translateY" 0;
+setAttr "CTRL_C_tongue_tipMove.translateX" 0;
+setAttr "CTRL_C_tongue_tipMove.translateY" 0;
 setAttr "CTRL_R_mouth_lipsBlow.translateY" 0;
 setAttr "CTRL_L_mouth_lipsBlow.translateY" 0;
 setAttr "CTRL_L_mouth_lipsTogetherU.translateY" 0;
@@ -2257,7 +2257,7 @@ setAttr "CTRL_L_mouth_upperLipRaise.translateY" 0.125;
 setAttr "CTRL_R_mouth_upperLipRaise.translateY" 0.125;
 setAttr "CTRL_R_mouth_sharpCornerPull.translateY" 0.1;
 setAttr "CTRL_L_mouth_sharpCornerPull.translateY" 0.1;
-setAttr "CTRL_C_tongue.translateY" 0.4;
+setAttr "CTRL_C_tongue_move.translateY" 0.4;
 }
 
 // D ( Dog ) Clicked
@@ -2433,8 +2433,8 @@ setAttr "CTRL_L_mouth_lowerLipDepress.translateY" 0.3;
 setAttr "CTRL_L_mouth_stickyOuterD.translateY" 0.325;
 setAttr "CTRL_R_mouth_stickyOuterD.translateY" 0.325;
 setAttr "CTRL_C_tongue_inOut.translateY" -0.25;
-setAttr "CTRL_C_tongue.translateY" 0.1;
-setAttr "CTRL_C_tongue_narrowWide.translateY" 1;
+setAttr "CTRL_C_tongue_move.translateY" 0.1;
+setAttr "CTRL_C_tongue_wideNarrow.translateY" 1;
 }
 
 // M ( Monkey ) Clicked
@@ -2662,8 +2662,8 @@ setAttr "CTRL_R_mouth_lipsTogetherD.translateY" 0.35;
 setAttr "CTRL_L_mouth_lipsTogetherD.translateY" 0.35;
 setAttr "CTRL_R_mouth_lipsTogetherU.translateY" 0.35;
 setAttr "CTRL_C_tongue_inOut.translateY" -0.2;
-setAttr "CTRL_C_tongue.translateY" 0.2;
-setAttr "CTRL_C_tongue_narrowWide.translateY" 1;
+setAttr "CTRL_C_tongue_move.translateY" 0.2;
+setAttr "CTRL_C_tongue_wideNarrow.translateY" 1;
 setAttr "CTRL_L_jaw_ChinRaiseU.translateY" 0.15;
 setAttr "CTRL_R_jaw_ChinRaiseD.translateY" 0.15;
 setAttr "CTRL_L_jaw_ChinRaiseD.translateY" 0.15;
@@ -2690,6 +2690,6 @@ setAttr "CTRL_C_mouth_stickyU.translateY" 0.215;
 setAttr "CTRL_L_mouth_stickyOuterD.translateY" 0.645;
 setAttr "CTRL_R_mouth_stickyOuterD.translateY" 0.645;
 setAttr "CTRL_C_tongue_inOut.translateY" -0.25;
-setAttr "CTRL_C_tongue.translateY" 0.6;
-setAttr "CTRL_C_tongue_narrowWide.translateY" 0.5;
+setAttr "CTRL_C_tongue_move.translateY" 0.6;
+setAttr "CTRL_C_tongue_wideNarrow.translateY" 0.5;
 }
